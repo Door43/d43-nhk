@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nhk:home|Door43 (nhk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nhk|d43-nhk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nhk/archive/master.zip|d43-nhk.zip]]
+
+**Recent Changes**
+{{changes>ns = nhk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nhk|Ethnologue data]]
+
